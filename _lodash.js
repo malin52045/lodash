@@ -1,4 +1,4 @@
-var malin52045 = function(){
+var _lodash = function(){
 
   //返回一个函数，原函数最多接受n个参数
   function ary(func,n){
